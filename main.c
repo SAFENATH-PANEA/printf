@@ -4,7 +4,7 @@
 
 /**
  * main - Entry point
- *
+ * by Jose & Steve
  * Return: Always 0
  */
 int main(void)
